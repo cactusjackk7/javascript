@@ -12,17 +12,17 @@ console.log(x);
 
 // passing function
 function sayName() {
-    return 'Hello John';
+    return 'Hello Cactus Jack';
 }
 console.log(sayName());
 
 // passing string and a variable
-const name = 'John';
+const name = 'Cactus Jack';
 console.log('hello ' + name);
 
 // passing object 
 let obj = {
-    name: 'John',
+    name: 'Cactus Jack',
     age: 17
 }
 console.log(obj);
